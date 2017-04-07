@@ -4,4 +4,8 @@ https://github.com/pramitsawant/gec-worshop-1-apr-2017/invitations
 pramit iz saxxx
 fodo
 
+<<<<<<< Updated upstream
 
+=======
+hgjhgjkjnhb
+>>>>>>> Stashed changes
