@@ -1,1 +1,13 @@
-Hellow
+edit clone
+
+check if your friend had commited and pushed his changes
+
+git stash
+
+git pull
+
+git stash apply
+
+git commit
+
+git push
